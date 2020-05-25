@@ -1,0 +1,23 @@
+Impuestos {
+rol = impuesto
+Rol = Impuesto
+Roles = Impuestos
+menu = porcentaje
+Menu = Porcentaje}
+
+Items {
+    Rol = Items
+    rol = Items
+    menu = servicios
+    Menu = Servicos
+
+
+}
+
+Tipo de Items {
+    Rol = Tipo de Items
+    rol = tipo de Items
+    menu = 
+
+
+}
